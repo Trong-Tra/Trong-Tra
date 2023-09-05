@@ -1,5 +1,5 @@
 # AgonyThorn
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgonyThorn.AgonyThorn"/>
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgonyThorn%2FAgonyThorn&label=Visitors&labelColor=%2337d67a&countColor=%23d9e3f0&labelStyle=none"/>
 
 **`Information system engineering (Developer/Creator)`** <br>
 Just a sophomore at UIT-HCM ≧◉◡◉≦
