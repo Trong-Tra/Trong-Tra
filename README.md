@@ -1,8 +1,9 @@
 # AgonyThorn
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgonyThorn.AgonyThorn" />
 
 **`Information system engineering (Developer/Creator)`** <br>
 Just a sophomore at UIT-HCM ≧◉◡◉≦
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AgonyThorn.AgonyThorn" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+✌️+I'm+Minh+Trong+✌️;+Thanks+for+visiting!;" />
 </h1>
