@@ -28,6 +28,8 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
 <hr>
 
 <p align="center">
-   <img src="https://i.pinimg.com/originals/f6/b8/06/f6b80656b83f523c952731d895f84f03.gif" width="35%">
+   <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
+   <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
+   <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
 </p>
 
