@@ -33,7 +33,7 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
    <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
 </p>
 
-## 🦈 My Journey <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"' height ='205"' >
+## 🦈 My Journey <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"' height ='210"' >
 - Hello, I'm Trong, a dedicated and hardworking student who has had the privilege of attending a top national university. My journey has been shaped by a combination of personal challenges and a strong determination to excel in the field of blockchain and smart contract development. 
 - My academic journey has been marked by continuous growth and a relentless pursuit of knowledge. I'm proud to have earned a place at a top national university, where I've had the opportunity to engage with some of the brightest minds in various fields. 
 - My life when through many events that heavily affected me and left me with many trust issues. Therefore, I saw blockchain as an opportunity to address and overcome these challenges. I was determined to contribute to a technology that has the potential to revolutionize industries and create a more secure and transparent world. This determination led me to dedicate myself to blockchain and smart contract development. 
