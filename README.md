@@ -23,7 +23,8 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
 
 ## ⚙️ Languages and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,solidity,nodejs,git,github,vscode,linux"/> <br>
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,solidity"/> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux"/>
 </div>
 <hr>
 
