@@ -1,7 +1,7 @@
-# AgonyThorn
+# Agony
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgonyThorn%2FAgonyThorn&labelColor=%23d9e0f0&countColor=%23263999"/>
 
-**`(Developer/Creator)`** <br>
+**`(Developer/Creator)`** Chain Crafter <br>
 Just a sophomore at UIT-HCM ≧◉◡◉≦
 
 <h1 align="center">
@@ -23,7 +23,7 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
 
 ## ⚙️ Languages and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,solidity"/> <br>
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,solidity"/> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux"/>
 </div>
 <hr>
