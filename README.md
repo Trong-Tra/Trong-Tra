@@ -21,6 +21,12 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
 - 🎮 I have interest in roguelike, roguelite and castlevania games.
 - 🚀 Join me on this exciting journey as I push the boundaries of what's possible in the blockchain space and beyond. Let's connect and collaborate to create innovative solutions together!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## ⚙️ Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,js,solidity,go"/> <br>
@@ -37,9 +43,3 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
 ## 🐢 Stats
 
 [![Agony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trong-Tra&show_icons=true&theme=gotham)](https://github.com/Trong-Tra/github-readme-stats) <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake.svg" />
-</picture>
