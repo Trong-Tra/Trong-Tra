@@ -42,4 +42,4 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
 
 ## 🐢 Stats
 
-[![Agony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trong-Tra&show_icons=true&theme=gotham)](https://github.com/Trong-Tra/github-readme-stats) <br>
+[![TRON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trong-Tra&show_icons=true&theme=gotham)](https://github.com/Trong-Tra/github-readme-stats) <br>
