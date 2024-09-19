@@ -39,7 +39,3 @@ Just a sophomore at UIT-HCM ≧◉◡◉≦
    <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
    <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
 </p>
-
-## 🐢 Stats
-
-[![TRON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trong-Tra&show_icons=true&theme=gotham)](https://github.com/Trong-Tra/github-readme-stats) <br>
