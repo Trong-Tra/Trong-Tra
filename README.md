@@ -1,41 +1,80 @@
-# TRON
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAgonyThorn%2FAgonyThorn&labelColor=%23d9e0f0&countColor=%23263999"/>
-
-**`(Developer/Creator)`** Chain Crafter <br>
-Just a sophomore at UIT-HCM ≧◉◡◉≦
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+✌️+I'm+Minh+Trong+✌️;+Thanks+for+visiting!;" />
-</h1>
-<hr>
+# Hi, I'm Tron (trx) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
-   <img src="https://i.pinimg.com/originals/3e/1d/ea/3e1dea7725a5022d629d7e8358a055e8.gif" alt="gif" width="85%">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Web3+Engineer+%40+Nami+Foundation;Blockchain+Jack+of+all+trades;DeFi+Protocol+Designer;Blockchain+Researcher;Multiple+Hackathons+Champion;Building+the+decentralized+future" />
 </p>
-
-## 🧑‍💻 About me
-- 👋 Hello there! I'm Trong, and I'm on a journey of continuous learning, growth and always up to date on technology news.
-- 🌱 Still a newb, I'm constantly honing my skills and exploring new horizons to become a better developer every day.
-- 🌐 My passion lies in the fascinating realm of blockchain technology. I've immersed myself in the world of decentralized systems, and I'm particularly focused on mastering Solidity and smart contract development.
-- 💻 When I'm not immersed in the blockchain universe, I'm exploring various facets of the tech world, such as web development and seeking new challenges, opportunities for growth.
-- 🎮 I have interest in roguelike, roguelite and castlevania games.
-- 🚀 Join me on this exciting journey as I push the boundaries of what's possible in the blockchain space and beyond. Let's connect and collaborate to create innovative solutions together!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Trong-Tra/Trong-Tra/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-## ⚙️ Languages and Tools
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,solidity,go"/> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux"/>
-</div>
-<hr>
 
 <p align="center">
-   <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
-   <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
-   <img src="https://i.pinimg.com/originals/64/f1/1a/64f11a535bbd440cab2e745656d29f25.gif" width="30%">
+  <a href="https://x.com/Trx_Tra" target="_blank"><img src="https://img.shields.io/badge/X-@Trx_Tra-000000?style=for-the-badge&logo=x" /></a>
+  <a href="https://linkedin.com/in/minh-trong-tra-work" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Tra_Trx" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:trongtrawork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+## About Me
+
+I'm a Web3 Engineer at **Nami Foundation**, building production-grade DeFi products. My expertise lies in protocol design, DeFi mechanisms, and blockchain research.
+
+- 🏢 Currently shipping products at Nami Foundation
+- 🎓 B.E Information Systems - UIT VNUHCM (2022-2026)  
+- 🔬 Published 2 research papers on blockchain mechanisms
+- 🏆 5x Hackathon Champion with $13,000+ in prizes
+
+---
+
+## Featured Work
+
+### [Hakifi](https://hakifi.xyz/) — Production DeFi Platform
+Designed and implemented backend modules for Hypercore services, delivering perpetual trading features powered by Hyperliquid and introducing a VWAP-hugged TWAP execution model that minimizes slippage and MEV exposure.
+
+> 🚀 **Status:** Shipped & in production
+
+---
+
+## Highlights
+
+| Project | Award | Event |
+|---------|-------|-------|
+| **TradeClub** | 🥇 1st Runner Up + Envio Bonus | Metamask x Monad Cookoff 2025 |
+| **Clione** | 🏆 Winner | Hyperliquid Hackathon - Shield TWAP Track |
+| **Defrost** | 🏆 Back-to-Back Champion | Polkadot Hackathon DeFi ('24 & '25) |
+| **SaigonDAO** | 🏆 Champion | SEA Ideathon 2025 |
+| **Terrum** | 🎖️ Honorable Mention | U2U Network RWA Track |
+
+---
+
+## Experience
+
+**Web3 Engineer — Nami Foundation**  
+*June 2025 - Present*
+- Drove the technical direction of Web3 initiatives, aligning blockchain solutions with
+business goals and high engineering standards.
+- Designed and deployed smart contracts and DApps across multiple blockchain platforms
+with a strong focus on security and scalability.
+- Introduced innovative eco-socio solutions to enhance existing products and expand their
+utility.
+- Delivered one of Nami's flagship fintech products by developing and winning the
+Hyperliquid Hackathon TWAP executor track independently, later refined and launched for
+customers.
+- Championed best practices in audits, CI/CD, and cross-functional collaboration while
+mentoring new engineering talent.
+
+---
+
+## Let's Connect
+
+> "Whatever path you run, make it one they'll name a drink after when you're gone."
+
+💼 **Open for:** Web3 consulting, protocol design, collaborations  
+📅 **Book a meeting:** [Calendly](https://calendly.com/trongtrawork/tron-lounge)  
+🌐 **Portfolio:** [trx-terminal-port.vercel.app](https://trx-terminal-port.vercel.app)
+
+<p align="center">
+  <a href="https://calendly.com/trongtrawork/tron-lounge">
+    <img src="https://img.shields.io/badge/Book_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
+  </a>
+</p>
+
+
