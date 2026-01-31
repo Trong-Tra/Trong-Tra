@@ -20,7 +20,7 @@ I'm a Web3 Engineer at **Nami Foundation**, building production-grade DeFi produ
 - 🏢 Currently shipping products at Nami Foundation
 - 🎓 B.E Information Systems - UIT VNUHCM (2022-2026)  
 - 🔬 Published 2 research papers on blockchain mechanisms
-- 🏆 5x Hackathon Champion with $13,000+ in prizes
+- 🏆 Multiple Hackathon conquered with $13,000+ in prizes
 
 ---
 
